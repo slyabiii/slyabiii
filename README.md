@@ -9,6 +9,8 @@
 <p align="left"> <a href="https://twitter.com/slyabiii" target="blank"><img src="https://img.shields.io/twitter/follow/slyabiii?logo=twitter&style=for-the-badge" alt="slyabiii" /></a> </p>
 -->
 
+<img src="working_desk.gif" alt="working desk" title="working desk" align="right" width="300"/>
+
 - 🔭 I’m currently working on **my website**
 
 - 🌱 I’m currently learning **sass**
