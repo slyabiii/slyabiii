@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋😁, I'm Abishek Sreekumar</h1>
 <h3 align="center">A code lover from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=slyabiii&label=Profile%20views&color=0e75b6&style=flat" alt="slyabiii" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=slyabiii&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="slyabiii" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slyabiii&theme=tokyonight&margin-w=15" alt="slyabiii" /></a> </p>
 
