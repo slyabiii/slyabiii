@@ -11,22 +11,22 @@
 
 <img src="working_couch.gif" alt="working couch" title="working couch" align="right" width="300"/>
 
-- 🔭 I’m currently working on **my website**
+- 🔭 I’m currently working on ***********
 
 - 🌱 I’m currently learning **sass**
 
 - 👯 I’m looking to collaborate on **anything**
 
-- 🤝 I’m looking for help with **sass**
+<!-- - 🤝 I’m looking for help with **sass** -->
 
-- 👨‍💻 All of my projects are available [here](here)
+- 👨‍💻 All of my projects are available [here](https://github.com/slyabiii?tab=repositories))
 
 - 💬 Ask me about **anything you like**
 
 - 📫 How to reach me **abishek.k.sreekumar@gmail.com**
 
-- 📄 Know about my experiences [[coming soon]]([coming soon])
-
+- 📄 Know about my experiences [[coming soon]]
+  
 - ⚡ Fun fact **Why do Java Programmers have to wear glasses?......Because they don’t see C#**
 
 <br>
@@ -44,8 +44,11 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+   </p>
 <br>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/slyabiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="slyabiii" height="30" width="40" /></a>
