@@ -13,13 +13,13 @@
 
 - 🔭 I’m currently working on ***********
 
-- 🌱 I’m currently learning **sass**
+<!--- 🌱 I’m currently learning **sass** -->
 
 - 👯 I’m looking to collaborate on **anything**
 
 <!-- - 🤝 I’m looking for help with **sass** -->
 
-- 👨‍💻 All of my projects are available [here](https://github.com/slyabiii?tab=repositories))
+- 👨‍💻 All of my projects are available [here](https://github.com/slyabiii?tab=repositories)
 
 - 💬 Ask me about **anything you like**
 
